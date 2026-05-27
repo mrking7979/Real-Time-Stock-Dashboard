@@ -77,7 +77,7 @@ Real-time smart stock market dashboard with advanced charts and AI insights.
 
 ## 👨‍💻 Author
 
-Your Name
+MOHIT RAJ
 
 ---
 
